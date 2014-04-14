@@ -1,4 +1,6 @@
-# RGWeb font 
+# RGWeb font
+
+![RGWeb font preview](rgweb.png)
 
 ### The Register-Guard's flag web font. ([read more](https://github.com/registerguard/rgweb-font/wiki))
 
